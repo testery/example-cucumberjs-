@@ -1,11 +1,6 @@
 # client-activate-care
 [Cucumber](https://cucumber.io/), [SuperTest](https://www.npmjs.com/package/supertest)
 
-## Helpful Link(s)
-Description | URL
----|---
-Git | https://github.com/actmd/act-heka/
-
 ## Package(s)
 Packages used are defined in [`/api/package.json`](/bdd/api/package.json).
 
