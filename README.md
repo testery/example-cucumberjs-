@@ -1,4 +1,4 @@
-# client-activate-care
+# example-cucumberjs-supertest
 [Cucumber](https://cucumber.io/), [SuperTest](https://www.npmjs.com/package/supertest)
 
 ## Package(s)
