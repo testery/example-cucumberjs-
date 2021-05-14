@@ -25,8 +25,8 @@ Note: The `.env` ("dot e-en-ve") will contain user secrets so will be `.gitignor
 1. Double-click the new file and paste in the following:
    ```
    TEST_API_URL="Request URL: https://the-internet.herokuapp.com"
-   TEST_USER="tomsmith"
-   TEST_PASS="SuperSecretPassword!"
+   VALID_USER="tomsmith"
+   VALID_PASS="SuperSecretPassword!"
    ```
    * Note that the above template might be out-of-date, please check with your team lead and peers
 1. Make the necessary changes and save the file
